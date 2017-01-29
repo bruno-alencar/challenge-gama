@@ -14,4 +14,6 @@ get '/' do
 
 	end
   erb :index, :locals => {result: parsed}
+
+  # teste
 end
